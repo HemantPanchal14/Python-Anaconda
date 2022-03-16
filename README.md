@@ -1,2 +1,2 @@
 # Python-Anaconda
-Learning Python- Jupyter book
+Learning basic Python- Jupyter book
